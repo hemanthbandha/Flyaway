@@ -14,5 +14,5 @@ DATABASE TABLES USED:
 
 INSTRUCTIONS TO RUN THE PROJECT: 
 1.RUN THE .sql file in the oracle 11g sql command line by the following command :@FlyawayDatabase.sql; .
-2.RUN THE index.jsp which is the starting "\src\main\webapp\login page" for admin portal.
-3.RUN THE start.jsp which is the starting "\src\main\webapp\home page" for user portal.
+2.RUN THE "\src\main\webapp\index.jsp" which is the starting login page for admin portal.
+3.RUN THE "\src\main\webapp\start.jsp" which is the starting home page for user portal.
